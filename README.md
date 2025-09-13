@@ -6,10 +6,9 @@
 
 ## Description
 This repository contains MATLAB code used to generate the results in the above paper.  
-The main scripts are in the `main/` folder.
 
 ## Installation
-- MATLAB version: R2023a or later  
+- MATLAB
 - Required toolboxes: [Symbolic Math Toolbox]
 
 ## Citation
